@@ -1,0 +1,28 @@
+name: limitless
+favicon: null
+layout_spectrum: 0.6761457016691566
+typography_spectrum: 0.9092843921389431
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.34648038470186293
+  lightness: 0.033303685719147325
+  saturation: 0.3983624018728733
+  rhythmicContrast: 0.4617090115789324
+purpose: []
